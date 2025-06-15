@@ -11,7 +11,6 @@
 - 💻 Crio sites responsivos, modernos e interativos
 - 🎨 Faço todo o design no **Figma**, do layout até o protótipo
 - 🔥 Desenvolvendo projetos em **HTML, CSS, JavaScript e React**
-- 📚 Sempre estudando Front-End, UX/UI e Lógica de Programação
 - 🧠 Curioso, autodidata e apaixonado por aprender coisas novas
 - 🎯 Buscando desafios, freelas e oportunidades na área de tecnologia
 
