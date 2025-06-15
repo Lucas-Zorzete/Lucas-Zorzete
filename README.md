@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Lucas Zorzete 👋</h1>
+<p align="center">
+  Desenvolvedor Front-End • UI/UX Designer • Interessado por tecnologia, design e programação
+</p>
 
-<!--
-**Lucas-Zorzete/Lucas-Zorzete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Atualmente curso Técnico em Informática — 2º ano do ensino médio
+- 💻 Crio sites responsivos, modernos e interativos
+- 🎨 Faço todo o design no **Figma**, do layout até o protótipo
+- 🔥 Desenvolvendo projetos em **HTML, CSS, JavaScript e React**
+- 📚 Sempre estudando Front-End, UX/UI e Lógica de Programação
+- 🧠 Curioso, autodidata e apaixonado por aprender coisas novas
+- 🎯 Buscando desafios, freelas e oportunidades na área de tecnologia
