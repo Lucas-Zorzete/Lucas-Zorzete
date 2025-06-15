@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
 - 🎓 Atualmente curso Técnico em Informática — 2º ano do ensino médio
 - 💻 Crio sites responsivos, modernos e interativos
