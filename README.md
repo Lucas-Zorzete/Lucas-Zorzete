@@ -16,7 +16,6 @@
 
 ---
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-zorzete-6035a4369/)
 - 🌐 [Portfólio LZReis](https://lzreis-portfolio.netlify.app/)
 
 ---
