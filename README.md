@@ -73,3 +73,8 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Lucas-Zorzete&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Lucas-Zorzete&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Lucas-Zorzete&layout=donut&langs_count=7&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=Lucas-Zorzete&layout=donut&langs_count=7&theme=midnight-purple)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&display_format=percent&theme=midnight-purple)](https://wakatime.com/@alan)
+          
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Lucas-Zorzete&repo=Lucas-Zorzete%2FPortfolio&show_owner=true&description_lines_count=3&disable_animations=false&theme=midnight-purple)](https://github.com/Lucas-Zorzete/Portfolio)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Lucas-Zorzete&repo=Lucas-Zorzete%2FProjetos-Profissionais&description_lines_count=2&disable_animations=false&theme=midnight-purple)](https://github.com/Lucas-Zorzete/Projetos-Profissionais)
