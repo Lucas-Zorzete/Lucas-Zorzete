@@ -7,12 +7,12 @@
 
 ## 🚀 About me
 
-- 🎓 Atualmente curso Técnico em Informática — 3º ano do ensino médio
-- 💻 Crio sites responsivos, modernos e interativos
-- 🎨 Faço todo o design no **Figma**, do layout até o protótipo
-- 🔥 Desenvolvendo projetos em **HTML, CSS, JavaScript, Python, e PostgreSQL**
-- 🧠 Curioso, autodidata e apaixonado por aprender coisas novas
-- 🎯 Buscando desafios, freelas e oportunidades na área de tecnologia
+- Atualmente curso Técnico em Informática — 3º ano do ensino médio
+- Crio sites responsivos, modernos e interativos
+- Faço todo o design no **Figma**, do layout até o protótipo
+- Desenvolvendo projetos em **HTML, CSS, JavaScript, Python, e PostgreSQL**
+- Curioso, autodidata e apaixonado por aprender coisas novas
+- Buscando desafios, freelas e oportunidades na área de tecnologia
 
 ---
 
