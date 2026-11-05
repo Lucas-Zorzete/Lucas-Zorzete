@@ -24,7 +24,9 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/805361666036203551) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/luc4s_.r3is/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-zorzete-6035a4369/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasreis.zorzete@gmail.com) 
 
-# 💻 Tech Stack:
+---
+
+## 💻 Tech Stack:
 <div style="display: grid;
     grid-template-columns: repeat(9, 1fr);
     grid-template-rows: repeat(2, 1fr);
