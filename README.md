@@ -76,5 +76,5 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&display_format=percent&theme=midnight-purple)](https://wakatime.com/@alan)
           
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Lucas-Zorzete&repo=Lucas-Zorzete%2FPortfolio&show_owner=true&description_lines_count=3&disable_animations=false&theme=midnight-purple)](https://github.com/Lucas-Zorzete/Portfolio)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Lucas-Zorzete&repo=Lucas-Zorzete%2FPortfolio&show_owner=true&description_lines_count=2&disable_animations=false&theme=midnight-purple)](https://github.com/Lucas-Zorzete/Portfolio)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Lucas-Zorzete&repo=Lucas-Zorzete%2FProjetos-Profissionais&description_lines_count=2&disable_animations=false&theme=midnight-purple)](https://github.com/Lucas-Zorzete/Projetos-Profissionais)
