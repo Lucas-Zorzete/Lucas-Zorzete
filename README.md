@@ -63,3 +63,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
     width="50px"/>
 </div> 
+
+--- 
+
+## 📈 Estatísticas
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Lucas-Zorzete&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Lucas-Zorzete&show_icons=true&include_all_commits=true&theme=midnight-purple)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Lucas-Zorzete&layout=donut&langs_count=7&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=Lucas-Zorzete&layout=donut&langs_count=7&theme=midnight-purple)
