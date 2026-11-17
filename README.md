@@ -17,7 +17,7 @@
 ---
 
 - 🌐 [Portfólio LZReis](https://lzreis-portfolio.netlify.app/)
-- 📄 [Meu Currículo Técnico](https://drive.google.com/file/d/1HtROLm9_9mNbFtE1IdgrZFvbCmiggnF9/view?usp=sharing)
+- 📄 [Meu Currículo Técnico](https://drive.google.com/file/d/1QeSQjhRB_ExqEPrExPCULUz6l-SSgKGf/view?usp=sharing)
 
 ---
 
